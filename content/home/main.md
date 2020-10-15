@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "[**Zixuan YI**]      algorithm engineer at Bosch"
-subtitle = ""
+title = "Zixuan YI"
+subtitle = "Algorithm engineer at Bosch"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
