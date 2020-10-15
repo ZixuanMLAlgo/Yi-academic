@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Zixuan YI"
+title = "[**Zixuan YI**]      algorithm engineer at Bosch"
 subtitle = ""
 
 [design]
