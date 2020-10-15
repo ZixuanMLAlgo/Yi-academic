@@ -25,8 +25,8 @@ subtitle = "Algorithm engineer at Bosch"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "OceanBlue"
-  gradient_end = "ForestGreen"
+  gradient_start = "Blue"
+  gradient_end = "BlueIvy"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
