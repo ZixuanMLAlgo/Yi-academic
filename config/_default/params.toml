@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zixuan.yi@cn.bosch.com / zixuanyi1002@gmail.com"
+email = "zixuanyi1002@gmail.com"
 phone = "+8651268908824"
 
 # Address
