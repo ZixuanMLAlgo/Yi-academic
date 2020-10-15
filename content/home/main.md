@@ -25,7 +25,7 @@ subtitle = "                   Algorithm Engineer at Bosch"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = #2962FF
+  gradient_start = "BlueRibbon"
   gradient_end = "BlueRibbon"
   
   # Background image.
@@ -50,8 +50,8 @@ subtitle = "                   Algorithm Engineer at Bosch"
  css_class = ""
 +++
 
-[**News**]Looking for phd opportunities in machine learning
-          Academic background:
+[**News**] Looking for phd opportunities in machine learning
+Academic background:
 
 [Check out my latest news](https://academic-demo.netlify.app), or [View my tutorial online](https://wowchemy.com/user-stories/).
 
