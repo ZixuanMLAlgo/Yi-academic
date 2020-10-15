@@ -25,7 +25,7 @@ subtitle = "                   Algorithm Engineer at Bosch"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = 0x2962FF
+  gradient_start = #2962FF
   gradient_end = "BlueRibbon"
   
   # Background image.
