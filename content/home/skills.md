@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Neural Network with Python"
+  name = "Pytorch,Pandas,Scikit-learn in Python"
   #description = "90%"
 
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Deep Learning Models"
-  description = "10%"
+  name = "State-of-art Models"
+  #description = "10%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Nerual Network Optimization"
-  description = "100%"  
+  name = "Augmentation, Evaluation, Optimization"
+  #description = "100%"  
   
 
 
