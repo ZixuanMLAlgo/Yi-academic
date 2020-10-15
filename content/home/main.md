@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Zixuan YI"
-subtitle = "                   Algorithm Engineer at Bosch"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
