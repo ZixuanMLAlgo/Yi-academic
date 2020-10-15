@@ -18,27 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Algorithm Engineer"
+  company = "Bosch"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "CN"
+  date_start = "2018-02-06"
   date_end = ""
   description = """
-  Responsibilities include:
+  Projects & Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Bosch  Intelligent  Glove(2018): Responsiblefor part  of  gesture  recognitionsalgorithm development
+  * Bosch E-bike Guardian Angel(2018)：Responsiblefor E-bike posture recognitionsalgorithm development
+  * Bosch PT Smart Helmet(2019): Responsible for behavior recognition algorithm development [(Tree ensemble)]
+  * Bosch EAI PCB Anomaly Detection(2019): Responsible for PCB Cracks, Copper deformation detection and measuring (CV2)
+  * Bosch AE Plant Visual Inspection on AOI  Machine(2019): Responsiblefor labeling, data processing, modeling and model optimization [**(ResNet + XGBoost)**]
+  * Bosch Wujin Plant Visual Inspection(2019): Responsible for data augment, modeling  and model optimization [**(ResNet + XGBoost)**]
+  * Bosch Braking System Anomaly Detection(2019-2020): Responsible for algorithm development to detect anomalies in braking maneuvers during validation tests on braking systems [**(Variantional autoencoder)**]
+  * Bosch Autonomous Driving(2020-present):
+  *   -Working on state of paving classification basedon Bosch Frontvideo Camera [**(CNN)**]
+  *   -Working on lane detection in Bosch Driver Assistance System [**(UNet, runtime 20ms)**]
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
