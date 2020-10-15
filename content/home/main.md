@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Zixuan YI"
-subtitle = "Algorithm Engineer at Bosch"
+subtitle = "                   Algorithm Engineer at Bosch"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,7 +25,7 @@ subtitle = "Algorithm Engineer at Bosch"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
+  gradient_start = "DarkBlue"
   gradient_end = "ForestGreen"
   
   # Background image.
@@ -50,12 +50,10 @@ subtitle = "Algorithm Engineer at Bosch"
  css_class = ""
 +++
 
-## Welcome to Zixuan's Page
-
 [**News**]Looking for phd opportunities in machine learning
           Academic background:
 
-[Check out my latest news](https://academic-demo.netlify.app), or [view my tutorial online](https://wowchemy.com/user-stories/).
+[Check out my latest news](https://academic-demo.netlify.app), or [View my tutorial online](https://wowchemy.com/user-stories/).
 
 [**Github**](https://github.com/ZixuanMLAlgo) with Various classification models, realistic reinforcement learning applications on engineering work, VAE codes, LeetCode Solutions etc.
 
@@ -64,5 +62,4 @@ subtitle = "Algorithm Engineer at Bosch"
 - 💬 [VAE Case to be updated](https://discord.gg/z8wNYzb)
 - 🐦 [Leetcode Solutions](https://github.com/ZixuanMLAlgo/LeetCode-Solution)
 - 💡 [My recent intererst: **GNN**](https://github.com/ZixuanMLAlgo/graph_nets)
-#- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
