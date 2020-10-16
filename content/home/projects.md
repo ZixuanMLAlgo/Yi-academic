@@ -79,12 +79,12 @@ subtitle = ""
   
   * Bosch Intelligent Glove(2018): Responsible for part of gesture recognition algorithm development
   * Bosch E-bike Guardian Angel(2018)：Responsiblefor E-bike posture recognition algorithm development
-  * Bosch PT Smart Helmet(2019): Responsible for behavior recognition algorithm development [(Tree ensemble)]
+  * Bosch PT Smart Helmet(2019): Responsible for behavior recognition algorithm development (Tree ensemble)
   * Bosch EAI PCB Anomaly Detection(2019): Responsible for PCB Cracks, Copper deformation detection and measuring (CV2)
-  * Bosch AE Plant Visual Inspection on AOI  Machine(2019): Responsiblefor labeling, data processing, modeling and model optimization [**(ResNet + XGBoost)**]
-  * Bosch Wujin Plant Visual Inspection(2019): Responsible for data augment, modeling  and model optimization [**(ResNet + XGBoost)**]
-  * Bosch Braking System Anomaly Detection(2019-2020): Responsible for algorithm development to detect anomalies in braking maneuvers during validation tests on braking systems [**(Variantional autoencoder)**]
+  * Bosch AE Plant Visual Inspection on AOI  Machine(2019): Responsiblefor labeling, data processing, modeling and model optimization **(ResNet + XGBoost)**
+  * Bosch Wujin Plant Visual Inspection(2019): Responsible for data augment, modeling  and model optimization **(ResNet + XGBoost)**
+  * Bosch Braking System Anomaly Detection(2019-2020): Responsible for algorithm development to detect anomalies in braking maneuvers during validation tests on braking systems **(Variantional autoencoder)**
   * Bosch Autonomous Driving(2020-present):
-  *   *Working on state of paving classification basedon Bosch Frontvideo Camera [**(CNN)**]
-  *   *Working on lane detection in Bosch Driver Assistance System [**(UNet, runtime 20ms)**]
+  *   *Working on state of paving classification basedon Bosch Frontvideo Camera **(CNN)**
+  *   *Working on lane detection in Bosch Driver Assistance System **(UNet, runtime 20ms)**
   """
