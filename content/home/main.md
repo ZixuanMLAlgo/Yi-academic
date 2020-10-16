@@ -51,7 +51,6 @@ subtitle = "Algorithm engineer at Bosch"
 +++
 
 [**News**] Looking for phd opportunities in machine learning
-Academic background:
 
 [Check out my latest news](#posts), or [View my tutorial online](https://wowchemy.com/user-stories/).
 
