@@ -66,6 +66,15 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+
+ 
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
  [Project1]
   title = "Algorithm Engineer"
   company = "Bosch"
@@ -87,12 +96,3 @@ subtitle = ""
   *   -Working on state of paving classification basedon Bosch Frontvideo Camera [**(CNN)**]
   *   -Working on lane detection in Bosch Driver Assistance System [**(UNet, runtime 20ms)**]
   """
- 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
