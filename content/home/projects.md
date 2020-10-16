@@ -66,7 +66,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
- [[Project1]]
+ [Project1]
   title = "Algorithm Engineer"
   company = "Bosch"
   company_url = ""
