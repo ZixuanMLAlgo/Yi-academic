@@ -75,15 +75,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
- [Project1]
-  title = "Algorithm Engineer"
-  company = "Bosch"
-  company_url = ""
-  location = "CN"
-  date_start = "2018-02-06"
-  date_end = ""
-  description = """
-  Projects & Responsibilities include:
+  Projects:
   
   * Bosch Intelligent Glove(2018): Responsible for part of gesture recognition algorithm development
   * Bosch E-bike Guardian Angel(2018)：Responsiblefor E-bike posture recognition algorithm development
@@ -93,6 +85,6 @@ subtitle = ""
   * Bosch Wujin Plant Visual Inspection(2019): Responsible for data augment, modeling  and model optimization [**(ResNet + XGBoost)**]
   * Bosch Braking System Anomaly Detection(2019-2020): Responsible for algorithm development to detect anomalies in braking maneuvers during validation tests on braking systems [**(Variantional autoencoder)**]
   * Bosch Autonomous Driving(2020-present):
-  *   -Working on state of paving classification basedon Bosch Frontvideo Camera [**(CNN)**]
-  *   -Working on lane detection in Bosch Driver Assistance System [**(UNet, runtime 20ms)**]
+  *   *Working on state of paving classification basedon Bosch Frontvideo Camera [**(CNN)**]
+  *   *Working on lane detection in Bosch Driver Assistance System [**(UNet, runtime 20ms)**]
   """
