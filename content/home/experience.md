@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Projects & Responsibilities include:
   
-  * Bosch  Intelligent  Glove(2018): Responsiblefor part  of  gesture  recognitionsalgorithm development
-  * Bosch E-bike Guardian Angel(2018)：Responsiblefor E-bike posture recognitionsalgorithm development
+  * Bosch Intelligent Glove(2018): Responsible for part of gesture recognition algorithm development
+  * Bosch E-bike Guardian Angel(2018)：Responsiblefor E-bike posture recognition algorithm development
   * Bosch PT Smart Helmet(2019): Responsible for behavior recognition algorithm development [(Tree ensemble)]
   * Bosch EAI PCB Anomaly Detection(2019): Responsible for PCB Cracks, Copper deformation detection and measuring (CV2)
   * Bosch AE Plant Visual Inspection on AOI  Machine(2019): Responsiblefor labeling, data processing, modeling and model optimization [**(ResNet + XGBoost)**]
