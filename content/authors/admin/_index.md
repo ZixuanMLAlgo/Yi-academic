@@ -14,7 +14,7 @@ role: algorithm engineer (applied machine learning)
 
 # Organizations/Affiliations
 organizations:
-- name: Bosch 
+- name: Robert Bosch GmbH 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
