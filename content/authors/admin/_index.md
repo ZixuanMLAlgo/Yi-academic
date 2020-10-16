@@ -14,7 +14,7 @@ role: algorithm engineer (applied machine learning)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Glasgow 
+- name: Bosch 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,9 +45,11 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ML_Ezio
+  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/ZixuanMLAlgo
